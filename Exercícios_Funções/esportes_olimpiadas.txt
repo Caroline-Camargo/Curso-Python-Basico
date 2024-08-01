@@ -1,0 +1,30 @@
+Atletismo
+Natacao
+Ginastica Artistica
+Ginastica Ritmica
+Saltos Ornamentais
+Luta Livre
+Judo
+Taekwondo
+Boxe
+Esgrima
+Nado Sincronizado
+Tenis
+Tenis de Mesa
+Badminton
+Volei de Praia
+Volei
+Basquete
+Futebol
+Handebol
+Rugby Sevens
+Ciclismo
+Remo
+Canoagem
+Esqui Nautico
+Tiro com Arco
+Tiro Esportivo
+Pentatlo Moderno
+Skate
+Escalada Esportiva
+Surf
